@@ -24,9 +24,9 @@ p {
 height: 50px;
 width: 100%;
 }
-h1 {
+#source h1 {
  font-size: 16px;
 }
-p {
+# source p {
  font-size:12px;
 }
